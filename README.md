@@ -17,10 +17,11 @@
     ```sh
       main.py --baseDirectory --batchsize --epochs --savingDirectory
     ```
-   * For help use: 
-   ```sh
-      main.py -h
-   ```
+  * For help use: 
+    ```sh
+        main.py -h
+    ```
+    
 ## Reference
 
   ```
