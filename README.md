@@ -18,7 +18,7 @@
     ```
   * For help use: 
     ```sh
-        main.py -h
+      main.py -h
     ```
     
 ## Reference
