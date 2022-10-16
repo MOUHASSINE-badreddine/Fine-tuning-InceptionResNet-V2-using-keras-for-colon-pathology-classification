@@ -5,8 +5,7 @@
 
 ## Dataset
 <img src="https://i.ibb.co/nQMv3Q5/image.png" alt="image">
-  > The dataset includes Colon slides from Chaoyang hospital, the patch size is 512 × 512. Training set contains 1111 normal, 842 serrated, 1404 adenocarcinoma, 664 adenoma samples, and testing set contains 705 normal, 321 serrated, 840 adenocarcinoma, 273 adenoma samples.
-  The dataset is related to the following paper [Hard Sample Aware Noise Robust Learning for Histopathology Image Classification](https://ieeexplore.ieee.org/document/9600806)
+  > The dataset includes Colon slides from Chaoyang hospital, the patch size is 512 × 512. Training set contains 1111 normal, 842 serrated, 1404 adenocarcinoma, 664 adenoma samples, and testing set contains 705 normal, 321 serrated, 840 adenocarcinoma, 273 adenoma samples. The dataset is related to the following paper [Hard Sample Aware Noise Robust Learning for Histopathology Image Classification](https://ieeexplore.ieee.org/document/9600806)
 
 ## Usage
   * First you need to install the required packages using the following command:
