@@ -1,7 +1,7 @@
 # Fine-tuning-InceptionResNet-V2-using-keras-for-colon-pathology-classification
 
 ## Introduction
-  > We used the Chaoyang dataset that contains Colon slides for fine tuning Inception-ResNet-V2 using keras to classify wich of those pathologies are normal, serrates, adenoma or adenocarcinoma.
+   We used the Chaoyang dataset that contains Colon slides for fine tuning Inception-ResNet-V2 using keras to classify wich of those pathologies are normal, serrates, adenoma or adenocarcinoma.
 
 ## Dataset
 <img src="https://i.ibb.co/nQMv3Q5/image.png" alt="image">
